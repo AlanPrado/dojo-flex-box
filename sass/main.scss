@@ -1,0 +1,52 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Roboto;
+  font-size: 10px;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 1em;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.inline-flex-container {
+  display: inline-flex;
+}
+
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
+
+.flex-container-1, .inline-flex-container-1 {
+  background: #C5C5C5;
+}
+
+.flex-container-2, .inline-flex-container-2 {
+  background: #D5D5D5;
+}
+
+.red, .green, .blue {
+  width: 4em;
+  height: 4em;
+  line-height: 4em;
+  text-align: center;
+  font-size: 2em;
+  margin: 0.5em;
+  color: white;
+  border: 1px solid black;
+}

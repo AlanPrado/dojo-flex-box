@@ -1,0 +1,25 @@
+{
+  "name": "dojo-flex-box",
+  "version": "1.0.0",
+  "description": "Udacity \"Responsive Web Design Fundamentals\" course project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanPrado/dojo-flex-box.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanPrado/dojo-flex-box/issues"
+  },
+  "homepage": "https://github.com/AlanPrado/dojo-flex-box#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.10"
+  }
+}
