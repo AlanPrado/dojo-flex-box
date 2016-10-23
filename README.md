@@ -25,5 +25,3 @@ npm run install
 
 ## Execução
 npm run gulp
-
-Pronto, espero que aproveite!
